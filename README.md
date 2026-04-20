@@ -1,6 +1,6 @@
 # UTREx-Warnings
 
-A Python-based utility for Utah LEAs to compare **UTREx Level 1 and Level 2 validation files**. This script identifies newly appearing warnings between two files while ignoring "noisy" data changes like fluctuating attendance numbers or membership days.
+An interactive Jupyter Notebook for Utah LEAs to compare **UTREx Level 1 and Level 2 validation files**. This script identifies newly appearing warnings between two files while ignoring "noisy" data changes like fluctuating attendance numbers or membership days.
 
 ## Features
 
